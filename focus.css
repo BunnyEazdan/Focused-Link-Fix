@@ -1,7 +1,4 @@
-        a:focus,
-        button:focus,
-        input:focus,
-        textarea:focus {
-            outline: 0 !important;
-            box-shadow: none !important; /* Optional: remove box-shadow if present */
-        }
+a:focus,button:focus,input:focus,textarea:focus{
+outline: 0 !important;
+box-shadow: none !important; /* Optional: remove box-shadow if present */
+}
